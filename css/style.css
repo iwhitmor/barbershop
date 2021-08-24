@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #cad2c5;
+}
+
+h1 {
+  text-align: center;
+  color: #2f3e46;
+  font-size: 75px;
+  margin-top: 50px;
+  margin-bottom: 50px; 
+}
+
+nav {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin-top: 50px;
+}
