@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  /* background-color: #cad2c5; */
+}
+
+header {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #2f3e46;
+  font-size: 75px;
+  margin-top: 50px; 
+}
+
+nav {
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+  padding: 25px;
+}
+
+form {
+  text-align: center;
+}
