@@ -5,7 +5,11 @@
 body {
   width: 1200px;
   margin: 0 auto;
-  background-color: #cad2c5;
+  /* background-color: #cad2c5; */
+}
+
+header {
+  background-color: white;
 }
 
 h1 {
